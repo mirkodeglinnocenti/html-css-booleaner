@@ -29,3 +29,12 @@ header{
 .testo-evidenziato{
     background-color: yellow;
 }
+
+.intestazione-tabella{
+    color: white;
+    background-color: rgb(41, 172, 230);
+}
+
+.riga-dispari{
+    background-color: rgb(177, 229, 242);
+}
