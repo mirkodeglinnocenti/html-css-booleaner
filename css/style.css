@@ -12,7 +12,7 @@
 }
 
 header{
-    background-image: url(../img/pattern.png);
+    background-image: url("../img/pattern.png");
     background-size: 15%;
     background-color: #4EA0FF;
     height: 75px;
@@ -58,11 +58,15 @@ header{
 }
 
 .imagebox1{
-    background-image: url(../img/monitor.jpg);
+    background-image: url("../img/monitor.jpg");
     
 }
 
 .imagebox2{
-    background-image: url(../img/graph.jpg);
+    background-image: url("../img/graph.jpg");
     
+}
+
+table{
+    border-collapse: collapse;
 }
