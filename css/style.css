@@ -18,6 +18,10 @@ header{
     height: 75px;
 }
 
+.title{
+    height: 15px;
+}
+
 .azzurro {
     color: #29ACE6;
 }
@@ -39,9 +43,13 @@ header{
     background-color: rgb(177, 229, 242);
 }
 
-#titolo-immagini{
-    color: gray;
+.titolo-immagini{
     font-size: 22px;
+    height: 5px;
+}
+
+.gray{
+    color: gray;
 }
 
 .text-box{
@@ -69,4 +77,16 @@ header{
 
 table{
     border-collapse: collapse;
+}
+
+td, th{
+    width: 260px;
+}
+
+th{
+    text-align: left;
+}
+
+.ultima-colonna{
+    width: 500px;
 }
