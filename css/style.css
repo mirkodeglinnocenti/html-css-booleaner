@@ -38,3 +38,31 @@ header{
 .riga-dispari{
     background-color: rgb(177, 229, 242);
 }
+
+#titolo-immagini{
+    color: gray;
+    font-size: 22px;
+}
+
+.text-box{
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.box{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+}
+
+.imagebox1{
+    background-image: url(../img/monitor.jpg);
+    
+}
+
+.imagebox2{
+    background-image: url(../img/graph.jpg);
+    
+}
