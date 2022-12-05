@@ -17,3 +17,15 @@ header{
     background-color: #4EA0FF;
     height: 75px;
 }
+
+.azzurro {
+    color: #29ACE6;
+}
+
+.descrizione{
+    font-size: 12px;
+}
+
+.testo-evidenziato{
+    background-color: yellow;
+}
